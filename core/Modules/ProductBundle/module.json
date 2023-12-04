@@ -1,0 +1,13 @@
+{
+    "name": "ProductBundle",
+    "alias": "productbundle",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\ProductBundle\\Providers\\ProductBundleServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
